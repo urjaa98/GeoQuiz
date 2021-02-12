@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_wonders">There are 7 wonders of the world.
+</string>
+    <string name="question_bones">We have 206 bones in our body. </string>
+    <string name="question_gold">PB is the chemical symbol of gold.</string>
+    <string name="question_mountain">Manaslu is the tallest mountain in the world.
+</string>
+    <string name="question_parks">There are 423 national parks in the United states.</string>
+    <string name="question_india">India is the most populated country in the world</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+</resources>
